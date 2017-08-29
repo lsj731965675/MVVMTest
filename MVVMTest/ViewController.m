@@ -2,7 +2,7 @@
 //  ViewController.m
 //  MVVMTest
 //
-//  Created by Joy on 2017/8/29.
+//  Created by Joy on 2017/8/26.
 //  Copyright © 2017年 Joy. All rights reserved.
 //
 
@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor whiteColor];
 }
 
 
