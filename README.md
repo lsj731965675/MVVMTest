@@ -1,9 +1,9 @@
 # MVVMTest
-##一、前言
+## 一、前言
 
 现在网上一抓一大把都是MVVM讲解，但是demo大部分都是MVVM+RAC的，较少有用oc现有的如block，delegate等来充当胶水作用的demo。本文附上MVVM+block的demo来讲解MVVM的原理。
 
-#源来：
+# 源来：
 
 因为MVC严重困扰开发者的问题:
 
